@@ -30,7 +30,7 @@ Any changes will be posted here, and the “Last updated” date will be revised
 
 ## Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-📧 **contact@orbiscodesupport.com**
+📧 **orbiscode@gmail.com**
 
 ---
 
