@@ -1,6 +1,6 @@
 # Privacy Policy - OrbisCode
 
-This privacy policy applies to all applications and services provided by **OrbisCode**, including *Trimify* and any other apps published under the same developer account.
+This privacy policy applies to all applications and services provided by **OrbisCode**, including any  apps published under the same developer account.
 
 ## Information Collection
 Our applications do **not** collect any personal data from users unless it is required for the app’s core functionality (for example: access to the camera, files, or network).  
